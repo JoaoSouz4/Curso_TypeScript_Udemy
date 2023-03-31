@@ -1,4 +1,5 @@
-var number1 = 10;
-var convertNumber = number1.toString();
-var textprint = "Valor convertido em String: ".concat(convertNumber);
+"use strict";
+const number1 = 10;
+const convertNumber = number1.toString();
+const textprint = `Valor convertido em String: ${convertNumber}`;
 console.log(textprint);
