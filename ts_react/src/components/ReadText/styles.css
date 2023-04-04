@@ -1,0 +1,15 @@
+input {
+    border-radius: 1rem;
+    border: 1px solid rgb(197, 197, 197);
+    padding: 1rem;
+    outline: none;
+}
+
+.default-message{
+    color: rgb(197, 195, 195);
+}
+
+.text-result{
+    color: rgb(108, 61, 151);
+    font-weight: bolder;
+}
