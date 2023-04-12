@@ -1,4 +1,4 @@
-const firstName = 'João';
+const firstName: string = 'João';
 const anotherName = 1;
 const x = true;
 

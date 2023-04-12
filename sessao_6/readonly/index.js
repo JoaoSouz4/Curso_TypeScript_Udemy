@@ -6,3 +6,5 @@ const fusca = {
     wheels: 4
 };
 console.log(fusca);
+//Não é possível executar o código abaixo: 
+// fusca.wheels = 8;
