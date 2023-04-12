@@ -1,0 +1,33 @@
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2.3rem;
+}
+
+.titles{
+  text-align: center;
+  padding: 1rem;
+  border-bottom: 5px dashed var(--color2);
+}
+
+
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+  width: 70%;
+}
+
+form div{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+input{
+  border-radius: 0.5rem;
+  padding: 1rem;
+}

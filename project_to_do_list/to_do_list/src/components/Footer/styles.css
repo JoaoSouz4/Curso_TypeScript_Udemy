@@ -1,0 +1,9 @@
+footer{
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+    background: linear-gradient(45deg, var(--color2), rgb(15, 109, 196));
+    background-color: var(--color2);
+    color: #fafafa;
+    height: 100%;
+}
