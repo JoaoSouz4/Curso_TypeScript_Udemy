@@ -1,0 +1,89 @@
+23Y--04--16 19:33:11:3311 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 19:34:03:343 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 19:34:03:343 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 19:34:16:3416 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 19:34:16:3416 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 19:34:37:3437 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 19:34:37:3437 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:04:30:430 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:04:30:430 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:05:11:511 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:05:11:511 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:06:20:620 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:06:20:620 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:06:25:625 - [32mhttp[39m : [32mGET / 16 - 20.307 ms[39m
+[32m[39m
+23Y--04--16 20:18:25:1825 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:18:25:1825 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:18:48:1848 - [32mhttp[39m : [32mPOST /movie 30 - 29.519 ms[39m
+[32m[39m
+23Y--04--16 20:18:50:1850 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:18:50:1850 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:23:32:2332 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:23:32:2332 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:24:21:2421 - [32mhttp[39m : [32mPOST /movie 131 - 337.443 ms[39m
+[32m[39m
+23Y--04--16 20:25:34:2534 - [32mhttp[39m : [32mPOST /movie 131 - 223.455 ms[39m
+[32m[39m
+23Y--04--16 20:25:47:2547 - [32mhttp[39m : [32mPOST /movie 131 - 202.922 ms[39m
+[32m[39m
+23Y--04--16 20:26:33:2633 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:26:33:2633 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 20:26:39:2639 - [32mhttp[39m : [32mPOST /movie 153 - 457.128 ms[39m
+[32m[39m
+23Y--04--16 20:28:27:2827 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 20:28:27:2827 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:04:52:452 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:04:52:452 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:05:33:533 - [32mhttp[39m : [32mPOST /movie - - - ms[39m
+[32m[39m
+23Y--04--16 22:06:50:650 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:06:50:650 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:07:21:721 - [32mhttp[39m : [32mPOST /movie 49 - 120.720 ms[39m
+[32m[39m
+23Y--04--16 22:10:44:1044 - [32mhttp[39m : [32mPOST /movie 67 - 127.564 ms[39m
+[32m[39m
+23Y--04--16 22:10:48:1048 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:10:48:1048 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:21:53:2153 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:21:53:2153 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:22:03:223 - [32mhttp[39m : [32mPOST /movie 53 - 127.647 ms[39m
+[32m[39m
+23Y--04--16 22:23:01:231 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:23:01:231 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:23:06:236 - [32mhttp[39m : [32mPOST /movie 154 - 474.142 ms[39m
+[32m[39m
+23Y--04--16 22:23:49:2349 - [32mhttp[39m : [32mPOST /movie 55 - 17.166 ms[39m
+[32m[39m
+23Y--04--16 22:24:29:2429 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:24:29:2429 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:35:19:3519 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:35:19:3519 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:35:36:3536 - [32mhttp[39m : [32mPOST /movie 53 - 143.783 ms[39m
+[32m[39m
+23Y--04--16 22:36:20:3620 - [32mhttp[39m : [32mPOST /movie 214 - 316.285 ms[39m
+[32m[39m
+23Y--04--16 22:37:54:3754 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:37:54:3754 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:38:25:3825 - [32mhttp[39m : [32mPOST /movie 237 - 550.603 ms[39m
+[32m[39m
+23Y--04--16 22:39:56:3956 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:39:56:3956 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:46:40:4640 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:46:40:4640 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:47:19:4719 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:47:19:4719 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:49:54:4954 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:49:54:4954 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:51:11:5111 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:51:11:5111 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:51:46:5146 - [32mhttp[39m : [32mGET /movie/643ca311cab4c0f27eb4f5c2 - - - ms[39m
+[32m[39m
+23Y--04--16 22:51:56:5156 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:51:56:5156 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:52:14:5214 - [32minfo[39m : [32mConectado com o mongoDB[39m
+23Y--04--16 22:52:14:5214 - [32minfo[39m : [32mServidor rodando na porta: 8080[39m
+23Y--04--16 22:52:49:5249 - [32mhttp[39m : [32mGET /movie/643ca311cab4c0f27eb4f5c2 - - - ms[39m
+[32m[39m
+23Y--04--16 22:52:57:5257 - [32mhttp[39m : [32mGET /movie/643ca311cab4c0f27eb4f5c2 - - - ms[39m
+[32m[39m
